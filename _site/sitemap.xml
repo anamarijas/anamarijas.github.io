@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/super-long-article/</loc>
-<lastmod>2016-05-20T00:00:00+01:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/welcome-to-jekyll/</loc>
-<lastmod>2016-05-20T00:00:00+01:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/markdown-cheatsheet/</loc>
+<loc>http://localhost:4000/eat-here/</loc>
 <lastmod>2017-10-15T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/getting-started/</loc>
+<loc>http://localhost:4000/micro-wallet/</loc>
 <lastmod>2017-11-26T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/messenger-app/</loc>
+<lastmod>2018-10-15T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/404/</loc>
@@ -27,5 +23,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/CV2018.pdf</loc>
+<lastmod>2018-08-21T10:24:17+01:00</lastmod>
 </url>
 </urlset>
