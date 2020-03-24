@@ -12,6 +12,6 @@ Being a perfectionist, having a great appreciation for the general aesthetic of 
 
 Since then I've accumulated experience working in three software development agencies and also had a taste of freelancing. From UI I moved on to UX and finally product management which is my main focus nowadays.
 
-Check out more about me in my [CV]({{ site.url }}{% link /assets/CV - Strmljan - 2020.pdf %}).
+Check out more about me in my [CV]({{ site.url }}{% link /assets/CV_Strmljan_2020.pdf %}).
 
 
